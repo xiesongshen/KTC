@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ktc_article/ktc_article.iml" filepath="$PROJECT_DIR$/ktc_article/ktc_article.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ktc_base/ktc_base.iml" filepath="$PROJECT_DIR$/ktc_base/ktc_base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ktc_common/ktc_common.iml" filepath="$PROJECT_DIR$/ktc_common/ktc_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ktc_config/ktc_config.iml" filepath="$PROJECT_DIR$/ktc_config/ktc_config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ktc_eureka/ktc_eureka.iml" filepath="$PROJECT_DIR$/ktc_eureka/ktc_eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ktc_friend/ktc_friend.iml" filepath="$PROJECT_DIR$/ktc_friend/ktc_friend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ktc_gathering/ktc_gathering.iml" filepath="$PROJECT_DIR$/ktc_gathering/ktc_gathering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ktc_manager/ktc_manager.iml" filepath="$PROJECT_DIR$/ktc_manager/ktc_manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ktc_qa/ktc_qa.iml" filepath="$PROJECT_DIR$/ktc_qa/ktc_qa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ktc_recruit/ktc_recruit.iml" filepath="$PROJECT_DIR$/ktc_recruit/ktc_recruit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ktc_sms/ktc_sms.iml" filepath="$PROJECT_DIR$/ktc_sms/ktc_sms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ktc_spit/ktc_spit.iml" filepath="$PROJECT_DIR$/ktc_spit/ktc_spit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ktc_user/ktc_user.iml" filepath="$PROJECT_DIR$/ktc_user/ktc_user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ktc_web/ktc_web.iml" filepath="$PROJECT_DIR$/ktc_web/ktc_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent.iml" filepath="$PROJECT_DIR$/parent.iml" />
+    </modules>
+  </component>
+</project>

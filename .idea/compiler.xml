@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ktc_article" />
+        <module name="ktc_base" />
+        <module name="ktc_common" />
+        <module name="ktc_config" />
+        <module name="ktc_eureka" />
+        <module name="ktc_friend" />
+        <module name="ktc_gathering" />
+        <module name="ktc_manager" />
+        <module name="ktc_qa" />
+        <module name="ktc_recruit" />
+        <module name="ktc_sms" />
+        <module name="ktc_spit" />
+        <module name="ktc_user" />
+        <module name="ktc_web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ktc_article" target="1.8" />
+      <module name="ktc_base" target="1.8" />
+      <module name="ktc_common" target="1.8" />
+      <module name="ktc_config" target="1.8" />
+      <module name="ktc_eureka" target="1.8" />
+      <module name="ktc_friend" target="1.8" />
+      <module name="ktc_gathering" target="1.8" />
+      <module name="ktc_manager" target="1.8" />
+      <module name="ktc_qa" target="1.8" />
+      <module name="ktc_recruit" target="1.8" />
+      <module name="ktc_sms" target="1.8" />
+      <module name="ktc_spit" target="1.8" />
+      <module name="ktc_user" target="1.8" />
+      <module name="ktc_web" target="1.8" />
+      <module name="parent" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ktc_article" options="-parameters" />
+      <module name="ktc_base" options="-parameters" />
+      <module name="ktc_common" options="-parameters" />
+      <module name="ktc_config" options="-parameters" />
+      <module name="ktc_eureka" options="-parameters" />
+      <module name="ktc_friend" options="-parameters" />
+      <module name="ktc_gathering" options="-parameters" />
+      <module name="ktc_manager" options="-parameters" />
+      <module name="ktc_qa" options="-parameters" />
+      <module name="ktc_recruit" options="-parameters" />
+      <module name="ktc_sms" options="-parameters" />
+      <module name="ktc_spit" options="-parameters" />
+      <module name="ktc_user" options="-parameters" />
+      <module name="ktc_web" options="-parameters" />
+    </option>
+  </component>
+</project>
